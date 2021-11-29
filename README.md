@@ -6,6 +6,11 @@ Later I’ll update the `README.md` with details. Sorry for the inconvenience.
 
 https://github.com/ruman23/word2vec/blob/main/DetailsOfImplementation.pdf
 
+### Implementation Details and Code
+Please check the follwoing link
+
+https://github.com/ruman23/word2vec/blob/main/Word2Vec.ipynb
+
 ### Cloning the Repository
 
 For cloning the repository please paste the following command to your terminal 
